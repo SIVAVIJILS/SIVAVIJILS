@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SIVA VIJIL S
-- 👀 I’m interested in Machine learning 
-- 🌱 I’m currently learning Machine learning with python 
-- 💞️ I’m looking to collaborate on machine learning projects 
+- 👀 I’m interested in Devops and Machine learning 
+- 🌱 I’m currently learning new devops techniques and practices. 
+- 💞️ I’m looking to collaborate on DevOps related projects 
 - 📫 How to reach me ...@ 8973529549 and sivavijil555@gmail.com
 
 <!---
